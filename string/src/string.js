@@ -14,3 +14,10 @@ var h="문자열에서 줄바꿈을 하고 싶다면, \n 역슬래시n을 사용
 var i=a+b;
 
 var j="abcde";
+
+var str = "abcdeghijk";
+str.charAt(0);
+
+str.length
+
+str[1];
