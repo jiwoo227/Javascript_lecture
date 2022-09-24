@@ -21,3 +21,4 @@ str.charAt(0);
 str.length
 
 str[1];
+
